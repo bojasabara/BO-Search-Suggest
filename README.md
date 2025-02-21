@@ -23,15 +23,14 @@ A powerful WooCommerce product search plugin that provides real-time search sugg
 
 ## Usage 💡
 
-### Shortcode
+#### Shortcode
 Add the search box anywhere using the shortcode:
-```php
-[bo_ss_search]
+`bo_ss_search`
 
-Gutenberg Block
+## Gutenberg Block
 Use the "Bo Search Block" in the block editor.
 
-Configuration ⚙️
+## Configuration ⚙️
 Access the plugin settings at WP Admin -> BO Search Suggest to customize:
 
 Number of search results to display
@@ -44,19 +43,20 @@ Exclude specific products or categories
 Configure taxonomy search
 Set stop words
 Enable search filters on results page
-Caching 📦
+
+## Caching 📦
 Search results are cached for 24 hours to improve performance. You can clear the cache manually from the admin settings.
 
-License 📄
+## License 📄
 Apache License 2.0
 
-Author 👨‍💻
+## Author 👨‍💻
 Boja Sabara
 
-Support 🤝
+## Support 🤝
 For bug reports and feature requests, please use the plugin's issue tracker.
 
-Requirements 🔒
+## Requirements 🔒
 WordPress 5.0 or higher
 WooCommerce 3.0.0 or higher
 PHP 7.2 or higher
