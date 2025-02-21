@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "bo-search-suggest/bo-search-block",
+  "version": "1.0",
+  "title": "Bo Search Block",
+  "category": "widgets",
+  "icon": "search",
+  "description": "Display search input wherever you want.",
+  "supports": {
+    "html": false
+  },
+  "textdomain": "bo_search_block",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}
